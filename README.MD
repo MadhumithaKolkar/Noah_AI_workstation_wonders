@@ -10,7 +10,7 @@ Dialogflow Assets: Includes training phrases and other data for configuring inte
 Frontend: Website code for the Workstation Wonders website.
 Installation:
 
-![Workstation Wonders Logo](image.png")
+<img src="image.png" alt="Workstation Wonders Logo">
 
 
 To set up the project, follow these steps:
