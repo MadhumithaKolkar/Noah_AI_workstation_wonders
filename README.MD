@@ -12,6 +12,8 @@ Installation:
 
 <img src="image.png" alt="Workstation Wonders Logo">
 
+[Video](https://www.linkedin.com/posts/madhumithakolkar_ai-ml-ai-activity-7183358423994888193-bwFF?utm_source=share&utm_medium=member_desktop)
+
 
 To set up the project, follow these steps:
 
@@ -48,7 +50,7 @@ bash
 Note: Ngrok sessions can timeout. If you encounter a session expired message, restart the session.
 
 Contributors
-Your Name : Madhumitha Kolkar
+Madhumitha Kolkar
 
 Acknowledgments
 Special thanks to Dialogflow for providing the conversational platform for our chatbot, Noah.
